@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello i'm Riyan
+
+![Riyan](img/GYM.jpg)
 
 <!--
 **Riyan-1R/Riyan-1R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- i'm currently manage **Database Mysql**
+- i'm currently **simple API**
+- i'm Currently **designing the backend of the system to record and analyze**
+
+![shesss](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXB6OGRsOXo3c3NqNjJldzF5aHpwYjI1YWFqNjhyZmVsbGZqMHc1NyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/BPJmthQ3YRwD6QqcVD/giphy.gif)
